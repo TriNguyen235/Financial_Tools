@@ -32,9 +32,20 @@ Desktop.ini
 convert.py
 main.py
 .gitignore
+additional
 
-
-
+lectures/ofin2025_lecture02_ws.ipynb
+lectures/ofin2025_lecture03_ws.ipynb
+lectures/ofin2025_lecture04_ws.ipynb
+lectures/ofin2025_lecture05_ws.ipynb
+lectures/ofin2025_lecture06_ws.ipynb
+lectures/ofin2025_lecture07_ws.ipynb
+lectures/ofin2025_lecture08_ws.ipynb
+lectures/ofin2025_lecture09_ws.ipynb
+lectures/ofin2025_lecture10_ws.ipynb
+lectures/ofin2025_lecture11_ws.ipynb
+lectures/ofin2025_lecture12_ws.ipynb
+lectures/ofin2025_lecture05_wopython.ipynb
 
 
 appendix/flowoffunds.ipynb
@@ -50,7 +61,9 @@ appendix/timetravel_01.ipynb
 appendix/timevalue_01.ipynb
 
 lectures/ofin2025_lecture01_copy.ipynb
-tutorial_sessions/tutorial_session_1.ipynb
+tutorial_sessions/tutorial_session_initial_1.ipynb
+tutorial_sessions/tutorial_session_1_ws.ipynb
+tutorial_sessions/tutorial_session_2_ws.ipynb
 
 
 
